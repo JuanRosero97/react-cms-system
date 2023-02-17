@@ -1,0 +1,92 @@
+
+@font-face {
+  font-family: "Circular Std"; 
+  src: local("Circular Std"),
+    url("./fonts/Circular_Std.ttf") format("truetype");
+}
+
+* {
+  font-family: 'Circular Std', sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: 'Circular Std', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  --textColor: #272D4E;
+  --subColor:#94A2B3;
+  --principalColorTransp: #ef535059;
+}
+
+code {
+  font-family: 'Circular Std', source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.text-head-500 {
+  --tw-text-opacity: 1;
+  color: var(--textColor);
+  font-weight: 700;
+line-height: 70px;
+}
+
+.text-subtitle-500{
+  opacity: 0.8;
+  color: var(--subColor);
+  font-weight: 100;
+}
+
+
+.xx-large{
+  font-size: clamp(2.5rem, 13vw, 68px);
+  font-weight: 700;
+  line-height: clamp(2.5rem, 13vw, 68px);
+  color: var(--textColor);
+} 
+
+.x-large{
+  font-size: clamp(2rem, 12vw, 64px);
+  font-weight: 600;
+  line-height: clamp(2rem, 12vw, 64px);
+  color: var(--textColor);
+} 
+
+.medium{
+  font-size: clamp(1.8rem, 11vw, 62px);
+  font-weight: 500;
+  line-height: clamp(1.8rem, 11vw, 62px);
+  color: var(--textColor);
+} 
+
+.small{
+  font-size: clamp(1.6rem, 10vw, 60px);
+  font-weight: 400;
+  line-height: clamp(1.6rem, 10vw, 60px);
+  color: var(--textColor);
+} 
+
+.x-small{
+  font-size: clamp(1.4rem, 8vw, 58px);
+  font-weight: 300;
+  line-height: clamp(1.4rem, 8vw, 58px);
+  color: var(--textColor);
+} 
+
+.xx-small{
+  font-size: clamp(1rem, 2vw, 5px);
+  font-weight: 200;
+  line-height: clamp(1rem, 2vw, 5px);
+  color: var(--textColor);
+} 
+
+
+.px-500{
+  padding-left: 500px;
+  padding-right: 500px;
+}
