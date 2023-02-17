@@ -1,6 +1,6 @@
 ## Acerca de este proyecto
 
-Landing page dinamica para publicidad del cliente solicitante. Consume el api de informacion del sitio, y se encarga de renderizar diferentes componentes segun las configuraciones impuestas por el cliente. Para el desarrollo de esta interfaz se uso React y Tailwind.css.
+Landing page dinamica para publicidad del cliente solicitante. Consume el api de informacion del sitio, y se encarga de renderizar diferentes componentes segun las configuraciones impuestas por el cliente. Para el desarrollo de esta interfaz se uso React y Tailwind.css. Además presenta resposive para diferentes tamaños de pantalla.
 
 ## Environment
 
@@ -11,6 +11,12 @@ Landing page dinamica para publicidad del cliente solicitante. Consume el api de
 
 - Portafolio: https://juanrosero.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/juan-jos%C3%A9-rosero-calder%C3%B3n-27564b203/
+
+## Video gif
+
+- Live video
+
+  ![Live video](https://github.com/JuanRosero97/site-cms-amaris/blob/main/screenshots/video.gif)
 
 ## Capturas de pantalla
 
