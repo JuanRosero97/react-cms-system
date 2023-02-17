@@ -1,6 +1,6 @@
 ## Acerca de este proyecto
 
-Landing page dinamica para publicidad del cliente solicitante. Consume el api de informacion del sitio, y se encarga de renderizar diferentes componentes segun las configuraciones inpuestas por el cliente. Para el desarrollo de esta interfaz se uso React y Tailwind.css.
+Landing page dinamica para publicidad del cliente solicitante. Consume el api de informacion del sitio, y se encarga de renderizar diferentes componentes segun las configuraciones impuestas por el cliente. Para el desarrollo de esta interfaz se uso React y Tailwind.css.
 
 ## Environment
 
